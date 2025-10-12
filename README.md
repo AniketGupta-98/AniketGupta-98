@@ -13,12 +13,12 @@
 
 - 💼 Experienced **Full-Stack Developer**
 - 🔧 I build apps using:
-  
+
   **Frontend:**  
-  `ReactJS`, `NextJS`, `NuxtJS`, `HTML`, `SCSS`, `Bootstrap`, `Tailwind CSS`
+  `ReactJS`, `Next.js`, `Nuxt.js`, `Vue.js`, `HTML`, `SCSS`, `Bootstrap`, `Tailwind CSS`
 
   **Backend & DevOps:**  
-  `Node.js`, `Express.js`, `MySQL`, `MongoDB`, `JWT Auth`, `Redis`, `Webhooks`, `REST APIs`, `AWS`, `Docker`
+  `Node.js`, `Express.js`, `NestJS`, `MySQL`, `MongoDB`, `JWT Auth`, `Redis`, `Webhooks`, `REST APIs`, `AWS`, `Docker`
 
 - 🌐 Deployed Live Project:  
   🔗 [Safai Mitra Live App](https://live.safaimitra.click/)
@@ -35,7 +35,9 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
