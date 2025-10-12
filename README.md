@@ -28,7 +28,7 @@
   🔗 [Safai Mitra Live App](https://live.safaimitra.click/)
 
 - 🧑‍💻 Portfolio:  
-  🌍 [aniketguptaportfolio.netlify.app](https://aniketguptaportfolio.netlify.app/)
+  🌍 [https://aniketgupta-portfolio.netlify.app/](https://aniketgupta-portfolio.netlify.app/)
 
 - 🎮 I love **PC Gaming**, **Traveling**, and watching **Movies**
 
