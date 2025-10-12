@@ -1,0 +1,32 @@
+name: Update README with Stats
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch:     # Allows manual triggering
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Run script to generate README
+        env:
+          MY_SECRET_TOKEN: ${{ secrets.GITHUB }}
+        run: |
+          echo "Fetching data using secret..."
+          curl -H "Authorization: token $MY_SECRET_TOKEN" https://api.example.com/stats > stats.txt
+          
+          echo "# My Profile" > README.md
+          echo "## Stats" >> README.md
+          cat stats.txt >> README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'actions@github.com'
+          git add README.md
+          git commit -m "Update README with latest stats" || echo "No changes to commit"
+          git push
