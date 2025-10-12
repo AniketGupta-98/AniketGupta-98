@@ -24,11 +24,8 @@
   **Backend & DevOps:**  
   `Node.js`, `Express.js`, `NestJS`, `MySQL`, `MongoDB`, `JWT Auth`, `Redis`, `Webhooks`, `REST APIs`, `AWS`, `Docker`
 
-- 🌐 Deployed Live Project:  
-  🔗 [Safai Mitra Live App](https://live.safaimitra.click/)
-
 - 🧑‍💻 Portfolio:  
-  🌍 [https://aniketgupta-portfolio.netlify.app/](https://aniketgupta-portfolio.netlify.app/)
+  🌍 [Aniketgupta-portfolio](https://aniketgupta-portfolio.netlify.app/)
 
 - 🎮 I love **PC Gaming**, **Traveling**, and watching **Movies**
 
