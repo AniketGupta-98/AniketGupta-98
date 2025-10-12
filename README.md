@@ -15,7 +15,7 @@
 - 🔧 I build apps using:
   
   **Frontend:**  
-  `ReactJS`, `NextJS`, `HTML`, `SCSS`, `Bootstrap`, `Tailwind CSS`
+  `ReactJS`, `NextJS`, `NuxtJS`, `HTML`, `SCSS`, `Bootstrap`, `Tailwind CSS`
 
   **Backend & DevOps:**  
   `Node.js`, `Express.js`, `MySQL`, `MongoDB`, `JWT Auth`, `Redis`, `Webhooks`, `REST APIs`, `AWS`, `Docker`
@@ -34,6 +34,7 @@
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
