@@ -25,7 +25,7 @@
   `Node.js`, `Express.js`, `NestJS`, `MySQL`, `MongoDB`, `JWT Auth`, `Redis`, `Webhooks`, `REST APIs`, `AWS`, `Docker`
 
 - 🧑‍💻 Portfolio:  
-  🌍 [Aniketgupta-portfolio](https://aniketgupta-portfolio.netlify.app/)
+  🌍 [AniketGupta_portfolio](https://aniketgupta-portfolio.netlify.app/)
 
 - 🎮 I love **PC Gaming**, **Traveling**, and watching **Movies**
 
@@ -81,7 +81,7 @@
 <p align="left">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/your-linkedin-profile/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://aniketguptaportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://aniketgupta-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
