@@ -56,7 +56,8 @@
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AniketGupta-98&theme=radical&margin-w=10&margin-h=15&row=1&column=7" alt="Trophies" />
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=AniketGupta-98&theme=radical&margin-w=10&margin-h=15&row=1&column=7" alt="Trophies" /> -->
+
 </p>
 
 <p align="center">
