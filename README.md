@@ -56,18 +56,18 @@
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AniketGupta-98&theme=radical&margin-w=10&margin-h=15" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AniketGupta-98&show_icons=true&include_all_commits=true&count_private=true&theme=radical&v=1" width="53%" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AniketGupta-98&layout=compact&langs_count=8&theme=radical&v=1" width="38%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AniketGupta-98&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AniketGupta-98&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D&v=1" width="91%" />
+  <img src="https://gh-stats-alpha.vercel.app/api?username=AniketGupta-98&show_icons=true&include_all_commits=true&count_private=true&theme=radical" width="53%" />
+  <img src="https://gh-stats-alpha.vercel.app/api/top-langs/?username=AniketGupta-98&layout=compact&langs_count=8&theme=radical" width="38%" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AniketGupta-98&theme=radical&hide_border=false" width="91%" />
+</p>
+
 
 
 
