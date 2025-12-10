@@ -60,13 +60,17 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AniketGupta-98&show_icons=true&include_all_commits=true&count_private=true&theme=radical" width="53%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/api/top-langs/?username=AniketGupta-98&layout=compact&langs_count=8&theme=radical" width="38%" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AniketGupta-98&show_icons=true&include_all_commits=true&count_private=true&theme=radical" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AniketGupta-98&theme=radical" width="50%" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/api/top-langs/?username=AniketGupta-98&layout=compact&langs_count=8&theme=radical" width="38%" /> -->
+  
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AniketGupta-98&theme=radical" width="91%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AniketGupta-98&theme=radical" width="45%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AniketGupta-98&theme=tokyo-night" width="50%" />
 </p>
+
 
 
 
