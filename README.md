@@ -65,7 +65,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AniketGupta-98&theme=radical&hide_border=false" width="91%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AniketGupta-98&theme=blueberry" width="91%" />
 </p>
 
 
